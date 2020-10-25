@@ -6,7 +6,7 @@
 
 /**
  *
- * @author mdpra
+ * @author kylep
  */
 public class InvalidTestScoreException extends Exception {
     public InvalidTestScoreException(String errorMessage) {

@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author mdpra
+ * @author kylep
  */
 public class Array_Problem_2 {
     public static void main(String[] args) {

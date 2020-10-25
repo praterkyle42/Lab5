@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author mdpra
+ * @author kylep
  */
 public class Test_Scores_Demo {
     public static void main(String[] args) {

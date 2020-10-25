@@ -6,7 +6,7 @@
 
 /**
  *
- * @author mdpra
+ * @author kylep
  */
 public class TestScores {
     private double[] testScoreArray = new double[6];
